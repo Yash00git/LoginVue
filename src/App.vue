@@ -14,7 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
         <router-link
-            to="/link"
+            to="/login"
             class="block ml-4 mt-4
             lg:inline-block lg:mt-0 text-blue-200
             hover:text-white"
